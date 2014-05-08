@@ -1,0 +1,7 @@
+.*.swp
+bak
+*.bak
+.sass-cache
+python.env
+pycoinrpc.pid
+js/node_modules
